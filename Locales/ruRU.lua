@@ -9,12 +9,12 @@ L.flagRespawns = "Появление Флагов"
 
 L.takenTheFlagTrigger = "^(.+) захватывает флаг!"
 L.hasTakenTheTrigger = "захватил"
-L.upgradeToTrigger = "Улучшено" -- тут еще вопрос (!) проверить на проде // spellcheck on live
+L.upgradeToTrigger = "Улучшено до" -- тут еще вопрос (!) проверить на проде // spellcheck on live
 L.droppedTrigger = "уронил"
 L.capturedTheTrigger = "захватил"
 
-L.hordeGate = "Ворота Орды"
-L.allianceGate = "Ворота Альянса"
+L.hordeGate = "Врата крепости Орды"
+L.allianceGate = "Врата крепости Альянса"
 L.gatePosition = "%s (%s)" -- тут точно нужен перевод?// check on live
 L.west = "Запад"
 L.front = "Передовая" -- тут еще вопрос (!) проверить на проде // spellcheck on live
@@ -25,14 +25,14 @@ L.galvangar = "Гальвангар" -- Капитан Гальвангар <К�
 L.balinda = "Балинда" -- Капитан Балинда Каменный Очаг <Капитан клана Грозовой Вершины>
 L.ivus = "Ивус" -- Ивус Лесной Властелин
 L.lokholar = "Локолар" -- Локолар Владыка Льда
-L.handIn = "|cFF33FF99Capping|r: Автоматическая сдачать квестовых предметов." -- проверить на проде // spellcheck on live
+L.handIn = "|cFF33FF99Capping|r: Автоматическая сдача квестовых предметов." -- проверить на проде // spellcheck on live
 
 --- Alliance IoC Workshop yells:
--- Gnomish Mechanic yells: I'm halfway there! Keep the Horde away from here.  They don't teach fighting in engineering school!
--- Gnomish Mechanic yells: It's broken already?! No worries. It's nothing I can't fix.
+Гном-механик кричит: Я уже почти закончил! Только не подпускай ко мне Орду – в инженерной школе не учат махать мечом! -- Gnomish Mechanic yells: I'm halfway there! Keep the Horde away from here.  They don't teach fighting in engineering school!
+Гном-механик кричит: Уже сломалась? Не о чем беспокоиться. Я могу починить что угодно. -- Gnomish Mechanic yells: It's broken already?! No worries. It's nothing I can't fix.
 --- Horde IoC Workshop yells:
--- Goblin Mechanic yells: I'm about halfway done! Keep the Alliance away - fighting's not in my contract!
--- Goblin Mechanic yells: It's broken again?! I'll fix it... just don't expect the warranty to cover this.
+Гоблинский механик кричит: я на полпути! Держите Альянс подальше - боевые действия не входят в мой контракт! -- Goblin Mechanic yells: I'm about halfway done! Keep the Alliance away - fighting's not in my contract!
+Механик Гоблин кричит: «Он снова сломан ?!» Я исправлю это ... просто не ожидайте, что гарантия покроет это. -- Goblin Mechanic yells: It's broken again?! I'll fix it... just don't expect the warranty to cover this.
 L.halfway = "почти" -- на самом деле должно быть "наполовину", если достловно то полпути, но надо смотреть на проде // spellcheck on live
 L.broken = "сломано" -- надо смотреть на проде // spellcheck on live
 
